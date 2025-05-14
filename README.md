@@ -34,5 +34,5 @@
 
 However, I did use Bootstrap and utilized AI for the HTML structure — **not to be confused with "vibe coding"**, which I strongly discourage myself from doing. I use AI (ChatGPT as a tool to help debug and learn, not to code and pretend...) I created this project to somewhat mimic backend JS coding.
 
-## Enjoy something simple; GitGrab.
+## Enjoy something simple - GitGrab.
 #### Develeper: David Liebherr
