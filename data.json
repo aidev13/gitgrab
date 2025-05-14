@@ -1,0 +1,17 @@
+[
+  {
+    "username": "David",
+    "password": "pass",
+    "end_point": "aidev13"
+  },
+  {
+    "username": "Josh",
+    "password": "pass",
+    "end_point": "8ctopotamus"
+  },
+  {
+    "username": "Brad",
+    "password": "pass",
+    "end_point": "bradtraversy"
+  }
+]
